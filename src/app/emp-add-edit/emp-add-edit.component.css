@@ -1,0 +1,33 @@
+.content{
+    padding-top: 10px;
+    padding-left: 50px;
+}
+
+.row{
+    display:flex;
+    gap: 10px;
+    align-items:center;
+
+    .date{
+        width: 45%;
+    }
+
+    .mat-mdc-radio-button ~ .mat-mdc-radio-button {
+        margin-left: 30px;
+        padding-bottom: 5px;
+      }
+
+    
+}
+
+button{
+    position: relative;
+    top: 10%;
+    height: 10px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    transform: translateY(-80%);
+    flex: 1;
+    margin-top: 30px;
+}

@@ -1,0 +1,141 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "Saurabh",
+      "lastName": "Jk",
+      "email": "saur@gmail.com",
+      "dob": "2023-09-12T07:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "LTI",
+      "experience": 5,
+      "package": 4,
+      "id": 1
+    },
+    {
+      "firstName": "simi",
+      "lastName": "gunjal",
+      "email": "sj07@yahoo.com",
+      "dob": "2023-09-03T07:00:00.000Z",
+      "gender": "female",
+      "education": "Diploma/12th",
+      "company": "NA",
+      "experience": 0,
+      "package": 0,
+      "id": 2
+    },
+    {
+      "firstName": "jay",
+      "lastName": "nayak",
+      "email": "jay22@testmail.ac.in",
+      "dob": "2020-01-09T08:00:00.000Z",
+      "gender": "male",
+      "education": "Matric",
+      "company": "NA",
+      "experience": 0,
+      "package": 0,
+      "id": 3
+    },
+    {
+      "firstName": "32667",
+      "lastName": "NA",
+      "email": "NA",
+      "dob": null,
+      "gender": "male",
+      "education": "Diploma/12th",
+      "company": "NA",
+      "experience": 0,
+      "package": 0,
+      "id": 4
+    },
+    {
+      "firstName": "6772",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": 0,
+      "package": "",
+      "id": 5
+    },
+    {
+      "firstName": "42254456",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": 0,
+      "package": "",
+      "id": 6
+    },
+    {
+      "firstName": "654",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "Diploma/12th",
+      "company": "indo",
+      "experience": 5,
+      "package": 15,
+      "id": 7
+    },
+    {
+      "firstName": "153761",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": 0,
+      "package": "",
+      "id": 8
+    },
+    {
+      "firstName": "13465",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": 5,
+      "package": "",
+      "id": 9
+    },
+    {
+      "firstName": "122",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": 0,
+      "package": "",
+      "id": 10
+    }
+  ]
+}
